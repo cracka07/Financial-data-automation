@@ -89,3 +89,16 @@ Sub LoadHistoricalData(Ticker)
          End With
     
 End Sub
+'========================================================
+' Project: Financial Dashboard
+' Author: Mariano Ferrer
+' Role: Excel VBA Developer
+' Date: 2026
+'
+' Description:
+' Interactive financial dashboard built in Excel using VBA.
+' Automates financial analysis, dynamic charts, KPI tracking
+' and data visualization for business decision making.
+'
+' GitHub: https://github.com/cracka07
+'========================================================
