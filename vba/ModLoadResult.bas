@@ -90,7 +90,7 @@ Sub LoadHistoricalData(Ticker)
     
 End Sub
 '========================================================
-' Project: Financial Dashboard
+' Project: Financial Data Automation
 ' Author: Mariano Ferrer
 ' Role: Excel VBA Developer
 ' Date: 2026
