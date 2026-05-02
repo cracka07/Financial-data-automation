@@ -27,4 +27,4 @@ Excel VBA financial dashboard and Interface for analyzing company metrics and re
 ## Author
 
 Mariano Ferrer  
-Excel VBA Developer  
+
