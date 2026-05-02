@@ -126,7 +126,7 @@ Private Sub UserForm_Initialize()
        
 End Sub
 '========================================================
-' Project: Financial Dashboard
+' Project: Financial Data Automation
 ' Author: Mariano Ferrer
 ' Role: Excel VBA Developer
 ' Date: 2026
@@ -138,3 +138,4 @@ End Sub
 '
 ' GitHub: https://github.com/cracka07
 '========================================================
+
